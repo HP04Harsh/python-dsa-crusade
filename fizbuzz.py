@@ -15,6 +15,6 @@ class Solution:
                 result.append("Fizz")
           elif i%5 == 0:
                 result.append("Buzz")
-          else:
+          else:W
              result.append(str(i))
        return result
